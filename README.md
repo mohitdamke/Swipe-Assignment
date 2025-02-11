@@ -3,15 +3,17 @@
 
 This is an Android app built as part of the Swipe Android Developer assignment. The app implements essential features like product management, image upload, search functionality, and API integration using modern Android development practices.
 
-📸 Video
-https://github.com/user-attachments/assets/38bae9a8-a1d9-45dd-825b-a4e8f7b0cea6
+📸 Video  
+<video width="600" controls>
+  <source src="https://github.com/user-attachments/assets/38bae9a8-a1d9-45dd-825b-a4e8f7b0cea6" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
-📸 Screenshots
-![Screenshot_20250211_170733](https://github.com/user-attachments/assets/4763446b-4b75-444e-9ab3-36d24836bbc4)
-![Screenshot_20250211_170708](https://github.com/user-attachments/assets/6c44ea97-ef88-4e17-b1b9-4af2edbc9f5c)
-![Screenshot_20250211_170657](https://github.com/user-attachments/assets/7634fa9a-4129-4c5f-8aea-8ce9d76a604f)
-![Screenshot_20250211_170630](https://github.com/user-attachments/assets/57f8c731-8204-4135-9123-513aeba86403)
-
+📸 Screenshots  
+<img src="https://github.com/user-attachments/assets/4763446b-4b75-444e-9ab3-36d24836bbc4" width="400">  
+<img src="https://github.com/user-attachments/assets/6c44ea97-ef88-4e17-b1b9-4af2edbc9f5c" width="400">  
+<img src="https://github.com/user-attachments/assets/7634fa9a-4129-4c5f-8aea-8ce9d76a604f" width="400">  
+<img src="https://github.com/user-attachments/assets/57f8c731-8204-4135-9123-513aeba86403" width="400">  
 
 🚀 Features
 
@@ -29,8 +31,6 @@ Search Functionality to filter products
 
 Real-time Loading State & Error Handling
 
-Firebase Integration for order management (if applicable)
-
 🛠️ Tech Stack
 
 Kotlin
@@ -44,11 +44,6 @@ Coroutines & Flow (Asynchronous operations)
 ViewModel & State Management
 
 Firebase (For order management)
-
-📸 Screenshots
-
-
-
 
 🏗️ Setup & Installation
 
