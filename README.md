@@ -4,10 +4,7 @@
 This is an Android app built as part of the Swipe Android Developer assignment. The app implements essential features like product management, image upload, search functionality, and API integration using modern Android development practices.
 
 📸 Video  
-<video width="600" controls>
-  <source src="https://github.com/user-attachments/assets/38bae9a8-a1d9-45dd-825b-a4e8f7b0cea6" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+https://github.com/user-attachments/assets/f5529329-7ee9-480f-b8ce-5e0591a519c3
 
 📸 Screenshots  
 <img src="https://github.com/user-attachments/assets/4763446b-4b75-444e-9ab3-36d24836bbc4" width="400">  
